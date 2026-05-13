@@ -85,13 +85,4 @@ Interactive Power BI dashboard analysing **$17M+ in revenue** across **6 countri
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatyamSinghSingroul&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamSinghSingroul&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 <p align="center">⭐ If you find my work useful, consider starring the repos!</p>
